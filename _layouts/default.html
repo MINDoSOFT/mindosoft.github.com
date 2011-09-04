@@ -1,12 +1,93 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>{{ page.title }}</title>
-</head>
- 
-<body>
-<h1>{{ page.title }}</h1>
- 
-{{ content }}
-</body>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    <style type="text/css">
+
+.dummy { background-color: white }
+
+body {
+    font-family: bitstream vera sans, verdana, arial, helvetica, sans-serif;
+    font-size: 12pt;
+    background-color: #369;
+    margin: 20px;
+}
+.resume { 
+    background-color: #fff;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+    padding-left: 30pt;
+    padding-top: 1px;
+    padding-right: 30pt;
+}
+.heading {
+	border-bottom:1px solid #000; 
+	background-color: #369;
+	margin-left: -1em;	
+}
+
+h1, h2, h3 {
+    font-family: bitstream vera sans, verdana, arial, helvetica, sans-serif;
+}
+h1 {
+    background-color: #ccc; 
+    font-size:2.8em;
+}
+.headingText {
+    margin-left:0.3em;  
+    background-color: #ccc;
+    color: #000;  
+    padding: 2px;
+    border: 1px solid #000;
+}
+.nameHeading {
+	border-bottom:2px solid #000; 
+	background-color: #ccc;
+	margin-left: -0.4em;	
+}
+p {
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+p.projects {
+	font-weight: bold;
+}
+.awardTitle { font-weight: bold }
+.bookTitle { font-style: italic }
+.citation { font-style: italic }
+.clearanceLevel { font-weight: bold }
+.copyright { font-size: 75% }
+li.degree { margin-bottom: 0.5em; }
+li.skill { font-size: 14pt; padding:0.3em;}
+.degreeTitle { font-weight: bold }
+.employer { font-style: italic }
+.jobTitle { font-weight: bold }
+.lastModified { font-size: 75% }
+.membershipTitle { font-weight: bold }
+div.referee { margin-bottom: 1em; }
+.refereeName { font-weight: bold }
+.projectTitle { font-weight: bold; }
+.skillSetTitle { font-weight: bold; }
+
+table.referees { width: 80% ; }
+
+</style>
+  </head>
+  <body>
+    <div xmlns="" class="resume">
+
+      <div class="header">
+        <h1 class="nameHeading">Sergios Stamatis</h1>
+        <p>Website: <a href="http://mindosoft.github.com/">http://mindosoft.github.com/</a><br/>Email: <a href="mailto:&quot;insert_my_nickname_here&quot;@gmail.com (use without the quotes&quot;&quot; and &#10;&#9;    replace insert_my_nickname_here with my nickname">"insert_my_nickname_here"@gmail.com (use without the quotes"" and 
+	    replace insert_my_nickname_here with my nickname</a><br/><div class="description">Send me an email for detailed contact information stating your
+	    company and job proposition.</div></p>
+      </div>
+      {{ content }}
+      <p class="lastModified">Last modified September 2011.</p>
+    </div>
+  </body>
 </html>
+
