@@ -33,14 +33,13 @@ Programming experience:
       repository, branching, merging.
     * Other: Python (Django Web framework experience), PHP, HTML,
       JavaScript. Barely touched: Ruby, Io
-    Languages  * Greek: Speak and write (first language)
-  * English: Speak and write (second language)
-  
+    
 
+Languages:
 
-:
-
-  
+    * Greek: Speak and write (first language)
+    * English: Speak and write (second language)
+    
 
 Education:
 
