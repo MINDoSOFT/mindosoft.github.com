@@ -1,0 +1,80 @@
+                   Sergios Stamatis - Curriculum Vitae
+
+
+Contact Information:
+
+Sergios Stamatis
+
+Website: http://mindosoft.github.com/
+Email: "insert_my_nickname_here"@gmail.com (use without the quotes"" and 
+	    replace insert_my_nickname_here with my nickname
+Send me an email for detailed contact information stating your
+	    company and job proposition.
+
+Programming experience:
+
+    * Programming: C (DBMS implementation, UNIX system calls
+      (implementation of a shell), IPC communication (using shared
+      memory, semaphores), Network programming (implementation of a
+      music server).
+    * Object-oriented programming: C++ (Ferry boat simulation), good
+      understanding of object-oriented concepts inheritance,
+      polymorphism, encapsulation.
+    * DB: SQL, MySQL, PostgreSQL, PostGIS
+    * Parallel Programming: MPI (implementation of Cannon's algorithm
+      for matrix multiplication)
+    * Digital Systems Design: Xilinx ISE (implemented a MIPS processor
+      with a subset of MIPS's commands, ModelSim XE (used for debugging
+      various components), VHDL (implemented a FSMD with serial
+      communication to PC, PicoBlaze integration)
+    * Integrated Circuit Design: SPICE, Magic
+    * Java (implementation of an online e-commerce store)
+    * Version control using Git and www.github.com including setting up
+      repository, branching, merging.
+    * Other: Python (Django Web framework experience), PHP, HTML,
+      JavaScript. Barely touched: Ruby, Io
+    
+
+Education:
+
+    Ptychio/Bachelor degree, 2011
+    National and Kapodestrian University of Athens
+    
+      Overall GPA: 7.4 out of 10. Up to now. Dissertation due.
+      Overall GPA: 7.6 out of 10. Expected.
+    
+      - Informatics and Telecommunications.
+    
+    Apolytirio (High School Diploma), 2005
+    Agiou Georgiou Lakatamias Lyceum, Nicosia, Cyprus
+    
+      Overall GPA: 19 5/12 out of 20 (Excellent)
+    
+      - Science.
+    
+    IGCSE
+    
+      - English (B).
+    
+
+Employment History:
+
+    Cashier
+    OPAP Glory Ltd Nicosia Cyprus
+    2005-2011
+    
+    Projects:
+    * Cashier- Summer job as a cashier at a bookmaker shop.
+    
+    
+    Volunteer at the 1st Nicosia Marathon
+    Ktorides Foundation Nicosia Cyprus
+    4 October 2010-10 October 2010
+    
+
+Artistic skills and competences:
+
+    * Playing Guitar.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some diy guitar effects pedals).* During the school years: member of the computer club and the glee
+      club.
+
+Last modified September 2011.
