@@ -1,0 +1,3 @@
+[submodule "static/scripts/gistEmbedScriptGenerator"]
+	path = static/scripts/gistEmbedScriptGenerator
+	url = git://gist.github.com/1307349.git
