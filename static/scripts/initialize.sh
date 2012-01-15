@@ -16,13 +16,23 @@ if [ ! -d xmlcv ];then
 fi
 
 # Checking if required library for xmlcv is installed
-dpkg -s libxslt1.1 | grep installed
+dpkg -s libxslt1.1 | grep ' installed'
 RETVAL=$?
 if [ $RETVAL -ne 0 ];then
   echo "Please install libxslt1.1 package (then rerun this script) using:"
   echo "sudo apt-get install libxslt1.1"
   exit 1
 fi
+
+# Checking if required library for xmlcv is installed
+dpkg -s libxml-libxslt-perl | grep ' installed'
+RETVAL=$?
+if [ $RETVAL -ne 0 ];then
+  echo "Please install libxml-libxslt-perl package (then rerun this script) using:"
+  echo "sudo apt-get install libxml-libxslt-perl"
+  exit 1
+fi
+
 
 # Checking if required files for xmlcv exist 
 # mindosoft_cv.xml is my cv file in xml format
