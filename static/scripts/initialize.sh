@@ -1,5 +1,8 @@
 #!/bin/bash
 
+REQUIREDLIB1='libxslt1.1'
+REQUIREDLIB2='libxml-libxslt-perl'
+
 # Checking if xmlcv library is present or else download and extract it
 if [ ! -d xmlcv ];then
   echo "Directory xmlcv does not exist"
@@ -16,20 +19,20 @@ if [ ! -d xmlcv ];then
 fi
 
 # Checking if required library for xmlcv is installed
-dpkg -s libxslt1.1 | grep ' installed'
+dpkg -s ${REQUIREDLIB1} | grep ' installed'
 RETVAL=$?
 if [ $RETVAL -ne 0 ];then
-  echo "Please install libxslt1.1 package (then rerun this script) using:"
-  echo "sudo apt-get install libxslt1.1"
+  echo "Please install ${REQUIREDLIB1} package (then rerun this script) using:"
+  echo "sudo apt-get install ${REQUIREDLIB1}"
   exit 1
 fi
 
 # Checking if required library for xmlcv is installed
-dpkg -s libxml-libxslt-perl | grep ' installed'
+dpkg -s ${REQUIREDLIB2} | grep ' installed'
 RETVAL=$?
 if [ $RETVAL -ne 0 ];then
-  echo "Please install libxml-libxslt-perl package (then rerun this script) using:"
-  echo "sudo apt-get install libxml-libxslt-perl"
+  echo "Please install ${REQUIREDLIB2} package (then rerun this script) using:"
+  echo "sudo apt-get install ${REQUIREDLIB2}"
   exit 1
 fi
 
