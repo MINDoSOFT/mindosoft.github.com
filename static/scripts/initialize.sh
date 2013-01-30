@@ -2,6 +2,7 @@
 
 REQUIREDLIB1='libxslt1.1'
 REQUIREDLIB2='libxml-libxslt-perl'
+REQUIREDLIB3='fop'
 
 # Checking if xmlcv library is present or else download and extract it
 if [ ! -d xmlcv ];then
@@ -36,6 +37,14 @@ if [ $RETVAL -ne 0 ];then
   exit 1
 fi
 
+# Checking if required library for xmlcv is installed
+dpkg -s ${REQUIREDLIB3} | grep ' installed'
+RETVAL=$?
+if [ $RETVAL -ne 0 ];then
+  echo "Please install ${REQUIREDLIB3} package (then rerun this script) using:"
+  echo "sudo apt-get install ${REQUIREDLIB3}"
+  exit 1
+fi
 
 # Checking if required files for xmlcv exist 
 # mindosoft_cv.xml is my cv file in xml format
