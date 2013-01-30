@@ -144,7 +144,7 @@
           </project>
           <project>Android - Ported the appointment scheduling application (HandyCal) from iOS.
           </project>
-          <project>ASP.Net, HTML, CSS - Implemented the websites to fulfill the requirements of the above projects.
+          <project>ASP.Net, HTML, CSS - Implemented the websites to fulfill the requirements of <link href="http://www.carelove.com/">CareLove</link> and <link href="http://handycal.com/">HandyCal</link>.
           </project>
           <project>For the CareLove and HandyCal projects did extensive consumption of JSON REST Web Services. Also used pgAdmin (a PostgreSQL database administration tool) when testing to verify the server side was working correctly.
           </project>
