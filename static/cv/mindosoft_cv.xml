@@ -31,7 +31,7 @@
 	  <skill>Object-oriented programming: C++ (Ferry boat simulation), good understanding of object-oriented concepts. 
 	    inheritance, polymorphism, encapsulation.
 	  </skill>Assembly: MIPS, PicoBlaze (implementation of Mastermind on Xilinx Spartan-3 FPGA), x86 (debugging to find
-	    buffer overflow exploits, computer security class).
+	    buffer overflow exploits for computer security class).
 	  <skill>DB: SQL, MySQL, PostgreSQL, PostGIS.
 	  </skill>Shell Scripting: Bash (implementation of a script that calculates final grades of students, makes a report 
 	    for general student performance and emails the student with the highest grade).
