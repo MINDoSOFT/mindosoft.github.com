@@ -9,7 +9,7 @@
       <surname>Stamatis</surname>
     </name>
     <contact>
-      <phone location="mobile">99 996 008</phone>
+      <phone location="mobile">00357 99 996 008</phone>
       <email>sergiosstamatis@gmail.com</email>
       <url>http://mindosoft.github.com/</url>
     </contact>
@@ -30,8 +30,10 @@
 	  </skill>
 	  <skill>Object-oriented programming: C++ (Ferry boat simulation), good understanding of object-oriented concepts. 
 	    inheritance, polymorphism, encapsulation.
-	  </skill>Assembly: MIPS, PicoBlaze (implementation of Mastermind on Xilinx Spartan-3 FPGA), x86 (debugging to find
+	  </skill>
+    <skill>Assembly: MIPS, PicoBlaze (implementation of Mastermind on Xilinx Spartan-3 FPGA), x86 (debugging to find
 	    buffer overflow exploits for computer security class).
+    </skill>
 	  <skill>DB: SQL, MySQL, PostgreSQL, PostGIS.
 	  </skill>Shell Scripting: Bash (implementation of a script that calculates final grades of students, makes a report 
 	    for general student performance and emails the student with the highest grade).
@@ -125,7 +127,7 @@
   <period>
     <from>
       <date>
-    <month>February>
+    <month>February</month>
         <year>2012</year>
       </date>
     </from>
@@ -137,6 +139,7 @@
           <project>iOS (iPad) - Developed a journal application (baby-book) to help parents store the life events of their newly born children.
           </project>
           <project>iOS (iPad) - Developed an application (CareLove) to enable parents schedule FaceTime (VoIP) calls with doulas (labour coaches).
+          </project>
           <project>iOS (iPhone) - Developed an application (HandyCal) to help customers schedule appointments with providers of services (e.g. electricians, plumbers etc.).
           </project>
           <project>Android - Ported the appointment scheduling application (HandyCal) from iOS.
