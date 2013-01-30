@@ -9,11 +9,9 @@
       <surname>Stamatis</surname>
     </name>
     <contact>
+      <phone location="mobile">99 996 008</phone>
+      <email>sergiosstamatis@gmail.com</email>
       <url>http://mindosoft.github.com/</url>
-	  <email>"insert_my_nickname_here"@gmail.com (use without the quotes"" and 
-	    replace insert_my_nickname_here with my nickname</email>
-	  <description>Send me an email for detailed contact information stating your
-	    company and job proposition.</description>
     </contact>
     <birth>
       <date>
@@ -27,29 +25,29 @@
   <skillarea>
     <title>Programming experience</title>
     <skillset>
-	  <skill>Programming: C (DBMS implementation, UNIX system calls (implementation of a shell), 
-	    IPC communication (using shared memory, semaphores), Network programming (implementation of a music server).
+	  <skill>Programming: C [DBMS implementation, UNIX system calls (implementation of a shell), 
+	    IPC communication (using shared memory, semaphores), Network programming (implementation of a music server)].
 	  </skill>
-	  <skill>Object-oriented programming: C++ (Ferry boat simulation), good understanding of object-oriented concepts 
+	  <skill>Object-oriented programming: C++ (Ferry boat simulation), good understanding of object-oriented concepts. 
 	    inheritance, polymorphism, encapsulation.
 	  </skill>Assembly: MIPS, PicoBlaze (implementation of Mastermind on Xilinx Spartan-3 FPGA), x86 (debugging to find
 	    buffer overflow exploits, computer security class).
-	  <skill>DB: SQL, MySQL, PostgreSQL, PostGIS
+	  <skill>DB: SQL, MySQL, PostgreSQL, PostGIS.
 	  </skill>Shell Scripting: Bash (implementation of a script that calculates final grades of students, makes a report 
-	    for general student performance and emails the student with the highest grade)
-	  <skill>Parallel Programming: MPI (implementation of Cannon's algorithm for matrix multiplication)
+	    for general student performance and emails the student with the highest grade).
+	  <skill>Parallel Programming: MPI (implementation of Cannon's algorithm for matrix multiplication).
 	  </skill>
-	  <skill>Digital Systems Design: Xilinx ISE (implemented a MIPS processor with a subset of MIPS's commands, 
+	  <skill>Digital Systems Design: Xilinx ISE (implemented a MIPS processor with a subset of MIPS's commands), 
 	    ModelSim XE (used for debugging various components), VHDL (implemented a FSMD with serial communication to PC, 
-		PicoBlaze integration)
+		PicoBlaze integration).
 	  </skill>
-	  <skill>Integrated Circuit Design: SPICE, Magic
+	  <skill>Integrated Circuit Design: SPICE, Magic.
 	  </skill>
-	  <skill>Java (implementation of an online e-commerce store)
+	  <skill>Java [(implementation of an online e-commerce store), Android application development].
 	  </skill>
 	  <skill>Version control using Git and www.github.com including setting up repository, branching, merging.
 	  </skill>
-	  <skill>Other: Python (Django Web framework experience), PHP, HTML, JavaScript. Barely touched: Ruby, Io
+	  <skill>Other: Python (Django Web framework experience), Scala, PHP, HTML, JavaScript, CSS. Barely touched: Ruby, Io.
 	  </skill>
      </skillset>
   </skillarea>
@@ -74,16 +72,13 @@
 	</subjects>
         <institution>National and Kapodestrian University of Athens</institution>
         <date><year>2011</year></date>
-		<gpa>
-			<score>7.4</score>
-			<possible>10</possible>
-                        <note>Up to now. Dissertation due.</note>
-		</gpa>
                 <gpa>
                         <score>7.6</score>
-                        <possible>10</possible>
-                        <note>Expected.</note>
+                        <possible>10 (Very Good)</possible>
                 </gpa>
+        <annotation>
+            Dissertation Title "Creating personalized maps using GeoNode" for which I received 10 out of 10 (Excellent).
+        </annotation>
       </degree>
       <degree>
         <level>Apolytirio (High School Diploma)</level>
@@ -95,7 +90,8 @@
         <institution>Agiou Georgiou Lakatamias Lyceum, <city>Nicosia</city>, <country>Cyprus</country></institution>
         <date><year>2005</year></date>
 		<gpa>
-			<score>19 5/12 out of 20 (Excellent)</score>
+			<score>19 5/12</score>
+      <possible>20 (Excellent)</possible>
 		</gpa>
       </degree>
 
@@ -108,10 +104,42 @@
 	  </subject>
 	</subjects>
       </degree>
+      <degree>
+        <level>GCSE</level>
+  <subjects>
+    <subject>
+      <title>Turkish</title>
+      <result>B</result>
+    </subject>
+  </subjects>
+      </degree>
      </degrees>
  </academics>
 
   <history>
+    <job>
+      <jobtitle>Software Developer</jobtitle>
+      <employer>ITEna Solutions Ltd <city>Nicosia </city> <country>Cyprus</country></employer>
+  <period>
+    <from>
+      <date>
+    <month>February>
+        <year>2012</year>
+      </date>
+    </from>
+    <to>
+      <present />
+    </to>
+        </period>
+  <projects>
+          <project>iOS (iPad and iPhone) - Developed a journal to help parents store the life events of their newly born children on iPad (baby-book). Developed an application to help customers schedule appointments with providers of services (e.g. electricians, plumbers etc.) for iPhone (HandyCal).
+          </project>
+          <project>Android - Ported the appointment scheduling application from iOS (HandyCal).
+          </project>
+          <project>ASP.Net, HTML, CSS - Implemented the websites to fulfill the requirements of the above projects.
+          </project>
+        </projects>
+    </job>
     <job>
       <jobtitle>Cashier</jobtitle>
       <employer>OPAP Glory Ltd <city>Nicosia </city> <country>Cyprus</country></employer>
@@ -157,9 +185,10 @@
   <interests>
     <title>Artistic skills and competences</title>
 	
-    <interest><title>Playing Guitar.</title></interest>
+    <interest><title>Playing guitar, bass, piano.</title></interest>
     <interest><title>Amateur sound engineer (recording, mixing etc).</title></interest>
-    <interest><title>Electronics enthusiast (made some diy guitar effects pedals).</title></interest>
+    <interest><title>Electronics enthusiast (made some DIY guitar effects pedals).</title></interest>
+    <interest><title>Dancing latin.</title></interest>
 
 	<title>Extracurricular Activities</title>
 	
@@ -270,8 +299,8 @@
 
   <lastModified>
     <date>
-      <month>September</month>
-      <year>2011</year>
+      <month>January</month>
+      <year>2013</year>
     </date>
   </lastModified>
 
