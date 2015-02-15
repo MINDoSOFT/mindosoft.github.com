@@ -5,34 +5,37 @@ Contact Information:
 
 Sergios Stamatis
 
+Mobile Telephone: 00357 99 996 008
+Email: mindosoft@gmail.com
 Website: http://mindosoft.github.com/
-Email: "insert_my_nickname_here"@gmail.com (use without the quotes"" and 
-	    replace insert_my_nickname_here with my nickname
-Send me an email for detailed contact information stating your
-	    company and job proposition.
+
 
 Programming experience:
 
-    * Programming: C (DBMS implementation, UNIX system calls
+    * Programming: C [DBMS implementation, UNIX system calls
       (implementation of a shell), IPC communication (using shared
       memory, semaphores), Network programming (implementation of a
-      music server).
+      music server)].
     * Object-oriented programming: C++ (Ferry boat simulation), good
-      understanding of object-oriented concepts inheritance,
+      understanding of object-oriented concepts. inheritance,
       polymorphism, encapsulation.
-    * DB: SQL, MySQL, PostgreSQL, PostGIS
+    * Assembly: MIPS, PicoBlaze (implementation of Mastermind on Xilinx
+      Spartan-3 FPGA), x86 (debugging to find buffer overflow exploits
+      for computer security class).
+    * DB: Oracle, SQL, MySQL, PostgreSQL, PostGIS.
     * Parallel Programming: MPI (implementation of Cannon's algorithm
-      for matrix multiplication)
+      for matrix multiplication).
     * Digital Systems Design: Xilinx ISE (implemented a MIPS processor
-      with a subset of MIPS's commands, ModelSim XE (used for debugging
+      with a subset of MIPS's commands), ModelSim XE (used for debugging
       various components), VHDL (implemented a FSMD with serial
-      communication to PC, PicoBlaze integration)
-    * Integrated Circuit Design: SPICE, Magic
-    * Java (implementation of an online e-commerce store)
+      communication to PC, PicoBlaze integration).
+    * Integrated Circuit Design: SPICE, Magic.
+    * Java [(implementation of an online e-commerce store), Android
+      application development].
     * Version control using Git and www.github.com including setting up
       repository, branching, merging.
-    * Other: Python (Django Web framework experience), PHP, HTML,
-      JavaScript. Barely touched: Ruby, Io
+    * Other: Python (Django Web framework experience), Scala, PHP, HTML,
+      JavaScript, CSS. Barely touched: Ruby, Io.
     
 
 Languages:
@@ -43,11 +46,12 @@ Languages:
 
 Education:
 
-    Ptychio/Bachelor degree, 2011
+    Ptychio/Bachelor degree, 2011. Dissertation Title "Creating
+    personalized maps using GeoNode" for which I received 10 out of 10
+    (Excellent), Advisor: Alex Delis (Professor).
     National and Kapodestrian University of Athens
     
-      Overall GPA: 7.4 out of 10. Up to now. Dissertation due.
-      Overall GPA: 7.6 out of 10. Expected.
+      Overall GPA: 7.6 out of 10 (Very Good)
     
       - Informatics and Telecommunications.
     
@@ -62,11 +66,51 @@ Education:
     
       - English (B).
     
+    GCSE
+    
+      - Turkish (B).
+    
 
 Employment History:
 
+    Software Developer
+    ITEna Solutions Ltd
+    February 2012-Present
+    
+    Projects:
+    * Current: VB6 - Developed new modules and maintained existing
+      modules to meet our customers various needs. The modules where
+      created in our main application called (ITEna Application Host)
+      which is a platform that fulfills the accounting and insurance
+      needs of many insurance companies that we cooperate with.
+    * Current: Oracle - Developed and maintained many database tables
+      and stored procedures used in the (ITEna Application Host) to
+      carry various tasks that have to deal with mission critical
+      components.
+    * Current: Crystal Reports - Developed and maintained many reports
+      that were required by our customers to successfully review and
+      make correct decisions about their current status.
+    * iOS (iPad) - Developed a journal application (baby-book) to help
+      parents store the life events of their newly born children.
+    * iOS (iPad) - Developed an application (CareLove) to enable parents
+      schedule FaceTime (VoIP) calls with doulas (labour coaches).
+    * iOS (iPhone) - Developed an application (HandyCal) to help
+      customers schedule appointments with providers of services (e.g.
+      electricians, plumbers etc.).
+    * Android - Ported the appointment scheduling application (HandyCal)
+      from iOS.
+    * ASP.Net, HTML, CSS - Implemented the websites to fulfill the
+      requirements of CareLove and HandyCal.
+    * For the CareLove and HandyCal projects did extensive consumption
+      of JSON REST Web Services. Also used pgAdmin (a PostgreSQL
+      database administration tool) when testing to verify the server
+      side was working correctly.
+    * iOS development was done in Xcode, Android development was done in
+      Eclipse and ASP.Net development was done in Visual Studio 2010.
+    
+    
     Cashier
-    OPAP Glory Ltd Nicosia Cyprus
+    OPAP Glory Ltd
     2005-2011
     
     Projects:
@@ -74,13 +118,13 @@ Employment History:
     
     
     Volunteer at the 1st Nicosia Marathon
-    Ktorides Foundation Nicosia Cyprus
+    Ktorides Foundation
     4 October 2010-10 October 2010
     
 
 Artistic skills and competences:
 
-    * Playing Guitar.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some diy guitar effects pedals).* During the school years: member of the computer club and the glee
+    * Playing guitar, bass, piano.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some DIY guitar effects pedals).* Dancing latin.* During the school years: member of the computer club and the glee
       club.
 
-Last modified September 2011.
+Last modified February 2015.

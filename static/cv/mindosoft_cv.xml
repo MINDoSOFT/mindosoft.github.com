@@ -10,7 +10,7 @@
     </name>
     <contact>
       <phone location="mobile">00357 99 996 008</phone>
-      <email>sergiosstamatis@gmail.com</email>
+      <email>mindosoft@gmail.com</email>
       <url>http://mindosoft.github.com/</url>
     </contact>
     <birth>
@@ -34,7 +34,7 @@
     <skill>Assembly: MIPS, PicoBlaze (implementation of Mastermind on Xilinx Spartan-3 FPGA), x86 (debugging to find
 	    buffer overflow exploits for computer security class).
     </skill>
-	  <skill>DB: SQL, MySQL, PostgreSQL, PostGIS.
+	  <skill>DB: Oracle, SQL, MySQL, PostgreSQL, PostGIS.
 	  </skill>Shell Scripting: Bash (implementation of a script that calculates final grades of students, makes a report 
 	    for general student performance and emails the student with the highest grade).
 	  <skill>Parallel Programming: MPI (implementation of Cannon's algorithm for matrix multiplication).
@@ -121,7 +121,7 @@
   <history>
     <job>
       <jobtitle>Software Developer</jobtitle>
-      <employer><link href="http://www.itenasolutions.com/">Itena Solutions Ltd</link></employer>
+      <employer><link href="http://www.itenasolutions.com/">ITEna Solutions Ltd</link></employer>
       <city>Nicosia</city>
       <country>Cyprus</country>
   <period>
@@ -136,6 +136,12 @@
     </to>
         </period>
   <projects>
+          <project>Current: VB6 - Developed new modules and maintained existing modules to meet our customers various needs. The modules where created in our main application called (ITEna Application Host) which is a platform that fulfills the accounting and insurance needs of many insurance companies that we cooperate with.
+          </project>
+          <project>Current: Oracle - Developed and maintained many database tables and stored procedures used in the (ITEna Application Host) to carry various tasks that have to deal with mission critical components.
+          </project>
+          <project>Current: Crystal Reports - Developed and maintained many reports that were required by our customers to successfully review and make correct decisions about their current status.
+          </project>
           <project>iOS (iPad) - Developed a journal application (baby-book) to help parents store the life events of their newly born children.
           </project>
           <project>iOS (iPad) - Developed an application (CareLove) to enable parents schedule FaceTime (VoIP) calls with doulas (labour coaches).
@@ -315,8 +321,8 @@
 
   <lastModified>
     <date>
-      <month>January</month>
-      <year>2013</year>
+      <month>February</month>
+      <year>2015</year>
     </date>
   </lastModified>
 
