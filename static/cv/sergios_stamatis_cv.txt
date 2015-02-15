@@ -90,6 +90,9 @@ Employment History:
     * Current: Crystal Reports - Developed and maintained many reports
       that were required by our customers to successfully review and
       make correct decisions about their current status.
+    * VB .NET - Maintained and developed new modules for a software used
+      by agents of a firm located in Cyprus that has many shops that are
+      used to transfer money worldwide.
     * iOS (iPad) - Developed a journal application (baby-book) to help
       parents store the life events of their newly born children.
     * iOS (iPad) - Developed an application (CareLove) to enable parents
@@ -105,8 +108,6 @@ Employment History:
       of JSON REST Web Services. Also used pgAdmin (a PostgreSQL
       database administration tool) when testing to verify the server
       side was working correctly.
-    * iOS development was done in Xcode, Android development was done in
-      Eclipse and ASP.Net development was done in Visual Studio 2010.
     
     
     Cashier
@@ -124,7 +125,7 @@ Employment History:
 
 Artistic skills and competences:
 
-    * Playing guitar, bass, piano.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some DIY guitar effects pedals).* Dancing latin.* During the school years: member of the computer club and the glee
+    * Playing guitar, bass, piano.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some DIY guitar effects pedals).* During the school years: member of the computer club and the glee
       club.
 
 Last modified February 2015.

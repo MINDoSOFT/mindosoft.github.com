@@ -142,6 +142,8 @@
           </project>
           <project>Current: Crystal Reports - Developed and maintained many reports that were required by our customers to successfully review and make correct decisions about their current status.
           </project>
+          <project>VB .NET - Maintained and developed new modules for a software used by agents of a firm located in Cyprus that has many shops that are used to transfer money worldwide.
+          </project>
           <project>iOS (iPad) - Developed a journal application (baby-book) to help parents store the life events of their newly born children.
           </project>
           <project>iOS (iPad) - Developed an application (CareLove) to enable parents schedule FaceTime (VoIP) calls with doulas (labour coaches).
@@ -153,8 +155,6 @@
           <project>ASP.Net, HTML, CSS - Implemented the websites to fulfill the requirements of <link href="http://www.carelove.com/">CareLove</link> and <link href="http://handycal.com/">HandyCal</link>.
           </project>
           <project>For the CareLove and HandyCal projects did extensive consumption of JSON REST Web Services. Also used pgAdmin (a PostgreSQL database administration tool) when testing to verify the server side was working correctly.
-          </project>
-          <project>iOS development was done in Xcode, Android development was done in Eclipse and ASP.Net development was done in Visual Studio 2010.
           </project>
         </projects>
     </job>
@@ -210,7 +210,6 @@
     <interest><title>Playing guitar, bass, piano.</title></interest>
     <interest><title>Amateur sound engineer (recording, mixing etc).</title></interest>
     <interest><title>Electronics enthusiast (made some DIY guitar effects pedals).</title></interest>
-    <interest><title>Dancing latin.</title></interest>
 
 	<title>Extracurricular Activities</title>
 	
