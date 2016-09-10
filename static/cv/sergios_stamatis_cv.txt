@@ -10,6 +10,12 @@ Email: mindosoft@gmail.com
 Website: http://mindosoft.github.com/
 
 
+Objective:
+
+    To complete my Master's Degree in Game Development and become part
+    of the game development industry.
+    
+
 Programming experience:
 
     * Programming: C [DBMS implementation, UNIX system calls
@@ -75,7 +81,7 @@ Employment History:
 
     Software Developer
     ITEna Solutions Ltd
-    February 2012-Present
+    February 2012-August 2016
     
     Projects:
     * Current: VB6 - Developed new modules and maintained existing
@@ -108,6 +114,41 @@ Employment History:
       of JSON REST Web Services. Also used pgAdmin (a PostgreSQL
       database administration tool) when testing to verify the server
       side was working correctly.
+    * iOS development was done in Xcode, Android development was done in
+      Eclipse and ASP.Net development was done in Visual Studio 2010.
+    * Implemented JCC credit card payment integration on an ASP.NET
+      website which was added to require users to pay an amount before
+      proceeding to the next step.
+    * Implemented JCC SEPA (flat file) integration to allow user to
+      request SEPA transactions and receive their relevant
+      responses(accepted/rejected). For this project I created also a
+      flat file to XML file converter to accomodate with JCC policy
+      updates.
+    * Created an application for Limassol municipality that used a GSM
+      moded to send and receive SMS messages in order to control and
+      check the status of bollards located in various locations in the
+      center of Limassol. These bollards can be raised or lowered in
+      order to control car access to specific roads/pavements.
+    * Data migration and porting of an existing system that used Cobol
+      Data Files as a database and a command line interface, to ITEna's
+      system. ITEna's system uses Oracle as a database and a VB6
+      application as the client. This client application is currently
+      being ported to VB .NET.
+    
+    
+    Software Developer
+    Green Dot(Cyprus) Public Co. Ltd
+    February 2016-May 2016
+    
+    Projects:
+    * Recycling Game- Developed an interactive game using Processing,
+      OpenCV, Kinect. The setup includes a projector and a kinect camera
+      that is placed on the center of the ceiling of the room and points
+      downwards. The player holds a broom that has infrared leds which
+      are detected from the kinect to determine the player's position.
+      Actual game is projected on the floor and the player is required
+      to mop the trash or recyclable materials that appear, in the
+      correct trash or recycling bins.
     
     
     Cashier
@@ -125,7 +166,12 @@ Employment History:
 
 Artistic skills and competences:
 
-    * Playing guitar, bass, piano.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some DIY guitar effects pedals).* During the school years: member of the computer club and the glee
+    * Playing guitar, bass, piano.* Amateur sound engineer (recording, mixing etc).* Electronics enthusiast (made some DIY guitar effects pedals).* Dancing latin.* During the school years: member of the computer club and the glee
       club.
 
-Last modified February 2015.
+References:
+
+    Available upon request.
+    
+
+Last modified September 2016.

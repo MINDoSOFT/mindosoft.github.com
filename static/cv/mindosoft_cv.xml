@@ -22,6 +22,12 @@
     </birth>
   </header>
 
+  <objective>
+    <para>To complete my Master's Degree in Game Development and become
+      part of the game development industry.
+    </para>
+  </objective>
+
   <skillarea>
     <title>Programming experience</title>
     <skillset>
@@ -132,7 +138,10 @@
       </date>
     </from>
     <to>
-      <present />
+      <date>
+    <month>August</month>
+        <year>2016</year>
+      </date>
     </to>
         </period>
   <projects>
@@ -155,6 +164,40 @@
           <project>ASP.Net, HTML, CSS - Implemented the websites to fulfill the requirements of <link href="http://www.carelove.com/">CareLove</link> and <link href="http://handycal.com/">HandyCal</link>.
           </project>
           <project>For the CareLove and HandyCal projects did extensive consumption of JSON REST Web Services. Also used pgAdmin (a PostgreSQL database administration tool) when testing to verify the server side was working correctly.
+          </project>
+          <project>iOS development was done in Xcode, Android development was done in Eclipse and ASP.Net development was done in Visual Studio 2010.
+          </project>
+          <project>Implemented JCC credit card payment integration on an ASP.NET website which was added to require users to pay an amount before proceeding to the next step.
+          </project>
+          <project>Implemented JCC SEPA (flat file) integration to allow user to request SEPA transactions and receive their relevant responses(accepted/rejected). For this project I created also a flat file to XML file converter to accomodate with JCC policy updates.
+          </project>
+          <project>Created an application for Limassol municipality that used a GSM moded to send and receive SMS messages in order to control and check the status of bollards located in various locations in the center of Limassol. These bollards can be raised or lowered in order to control car access to specific roads/pavements.
+          </project>
+          <project>Data migration and porting of an existing system that used Cobol Data Files as a database and a command line interface, to ITEna's system. ITEna's system uses Oracle as a database and a VB6 application as the client. This client application is currently being ported to VB .NET.
+          </project>
+        </projects>
+    </job>
+    <job>
+      <jobtitle>Software Developer</jobtitle>
+      <employer>Green Dot(Cyprus) Public Co. Ltd</employer>
+      <city>Nicosia</city>
+      <country>Cyprus</country>
+ 	<period>
+	  <from>
+	    <date>
+              <month>February</month>
+	      <year>2016</year>
+	    </date>
+	  </from>
+	  <to>
+	    <date>
+              <month>May</month>
+	      <year>2016</year>
+	    </date>
+	  </to>
+      	</period>
+	<projects>
+          <project title="Recycling Game">Developed an interactive game using Processing, OpenCV, Kinect. The setup includes a projector and a kinect camera that is placed on the center of the ceiling of the room and points downwards. The player holds a broom that has infrared leds which are detected from the kinect to determine the player's position. Actual game is projected on the floor and the player is required to mop the trash or recyclable materials that appear, in the correct trash or recycling bins.
           </project>
         </projects>
     </job>
@@ -210,6 +253,7 @@
     <interest><title>Playing guitar, bass, piano.</title></interest>
     <interest><title>Amateur sound engineer (recording, mixing etc).</title></interest>
     <interest><title>Electronics enthusiast (made some DIY guitar effects pedals).</title></interest>
+    <interest><title>Dancing latin.</title></interest>
 
 	<title>Extracurricular Activities</title>
 	
@@ -312,16 +356,49 @@
 -->
 
   
-<!--No referees yet
   <referees>
-  
+    <referee>
+      <name>
+	<firstname>Christodoulos</firstname>
+	<surname>Megalemos</surname>
+      </name>
+      <title>Owner</title>
+      <organization>ITEna Solutions Ltd</organization>
+      <contact>
+        <email>christodoulos@itenasolutions.com</email>
+	<phone>00357 99 433033</phone>
+      </contact>
+    </referee>
+    <referee>
+      <name>
+	<firstname>Haris</firstname>
+	<surname>Petrou</surname>
+      </name>
+      <title>Managing Director</title>
+      <organization>ITEna Solutions Ltd</organization>
+      <contact>
+        <email>haris@itenasolutions.com</email>
+	<phone>00357 99 459775</phone>
+      </contact>
+    </referee>
+    <referee>
+      <name>
+	<firstname>Alex</firstname>
+	<surname>Delis</surname>
+      </name>
+      <title>Professor</title>
+      <organization>National and Kapodistrian University of Athens</organization>
+      <contact>
+        <email>ad@di.uoa.gr</email>
+	<phone>0030 210 727 5212</phone>
+      </contact>
+    </referee>
   </referees>
--->
 
   <lastModified>
     <date>
-      <month>February</month>
-      <year>2015</year>
+      <month>September</month>
+      <year>2016</year>
     </date>
   </lastModified>
 
