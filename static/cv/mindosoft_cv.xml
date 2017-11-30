@@ -23,8 +23,7 @@
   </header>
 
   <objective>
-    <para>To complete my Master's Degree in Game Development and become
-      part of the game development industry.
+    <para>To complete my Master's Degree in Game Development. Find a fulfilling job and an excellent and productive job environment. Develop games.
     </para>
   </objective>
 
@@ -126,6 +125,36 @@
 
   <history>
     <job>
+      <jobtitle>Research Assistant</jobtitle>
+      <employer><link href="http://iot-lab.cut.ac.cy">IoT Lab - Cyprus University of Technology</link></employer>
+      <city>Limassol</city>
+      <country>Cyprus</country>
+  <period>
+    <from>
+      <date>
+    <month>October</month>
+        <year>2016</year>
+      </date>
+    </from>
+    <to>
+      <date>
+    <month>January</month>
+        <year>2018</year>
+      </date>
+    </to>
+        </period>
+  <projects>
+          <project>Parking availability system to facilitate persons with reduced mobility. Developed a JSON API using Lumen which is a Laravel based microframework. The database used for this project was PostgreSQL. Also developed the Android client that consumes that API.
+          </project>
+          <project>Extended and maintained a mix Java Swing, JavaFX application which uses Hibernate as an ORM and communicates with a MySQL database, and an Asterisk pbx server. Java Swing was used for displaying an online/offline map component and Java FX was used for CRUD operations.
+          </project>
+          <project>Teaching assistant at "Pervasive computing applications" class. Taught about PHP, Android development and Arduino-Java communication.
+          </project>
+          <project>Made a web application using OctoberCMS that allows live score editing of volleyball matches. 
+          </project>
+        </projects>
+    </job>
+    <job>
       <jobtitle>Software Developer</jobtitle>
       <employer><link href="http://www.itenasolutions.com/">ITEna Solutions Ltd</link></employer>
       <city>Nicosia</city>
@@ -145,11 +174,11 @@
     </to>
         </period>
   <projects>
-          <project>Current: VB6 - Developed new modules and maintained existing modules to meet our customers various needs. The modules where created in our main application called (ITEna Application Host) which is a platform that fulfills the accounting and insurance needs of many insurance companies that we cooperate with.
+          <project>VB6 - Developed new modules and maintained existing modules to meet our customers various needs. The modules where created in our main application called (ITEna Application Host) which is a platform that fulfills the accounting and insurance needs of many insurance companies that we cooperate with.
           </project>
-          <project>Current: Oracle - Developed and maintained many database tables and stored procedures used in the (ITEna Application Host) to carry various tasks that have to deal with mission critical components.
+          <project>Oracle - Developed and maintained many database tables and stored procedures used in the (ITEna Application Host) to carry various tasks that have to deal with mission critical components.
           </project>
-          <project>Current: Crystal Reports - Developed and maintained many reports that were required by our customers to successfully review and make correct decisions about their current status.
+          <project>Crystal Reports - Developed and maintained many reports that were required by our customers to successfully review and make correct decisions about their current status.
           </project>
           <project>VB .NET - Maintained and developed new modules for a software used by agents of a firm located in Cyprus that has many shops that are used to transfer money worldwide.
           </project>
@@ -197,7 +226,7 @@
 	  </to>
       	</period>
 	<projects>
-          <project title="Recycling Game">Developed an interactive game using Processing, OpenCV, Kinect. The setup includes a projector and a kinect camera that is placed on the center of the ceiling of the room and points downwards. The player holds a broom that has infrared leds which are detected from the kinect to determine the player's position. Actual game is projected on the floor and the player is required to mop the trash or recyclable materials that appear, in the correct trash or recycling bins.
+          <project title="Recycling Game">Developed an interactive game using Processing, OpenCV, Kinect. The setup includes a projector and a kinect camera that is placed on the center of the ceiling of the room and points downwards. The player holds a broom that has infrared leds which are detected from the kinect to determine the player's position. Actual game is projected on the floor and the player is required to mop the trash or recyclable materials that appear, in the correct trash or recycling bins. This game has been successfully used live, in many promotional events held by Green Dot.
           </project>
         </projects>
     </job>
@@ -253,7 +282,7 @@
     <interest><title>Playing guitar, bass, piano.</title></interest>
     <interest><title>Amateur sound engineer (recording, mixing etc).</title></interest>
     <interest><title>Electronics enthusiast (made some DIY guitar effects pedals).</title></interest>
-    <interest><title>Dancing latin.</title></interest>
+    <interest><title>Going to the gym.</title></interest>
 
 	<title>Extracurricular Activities</title>
 	
